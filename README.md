@@ -9,12 +9,12 @@ Simple string utils for dealing easier with them
 Install using composer:
 
 ‌```
-composer require queracollege/string-utils
+composer require alibayat73/string-utils
 ‌```
 
 # Example
 
-‌```php
+‌```
 <?php
 
 require __DIR__.'/vendor/autoload.php';
